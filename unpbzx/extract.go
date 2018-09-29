@@ -34,7 +34,7 @@ func Extract(ctx context.Context, src io.Reader, dst io.Writer, numWorker int) e
     if numWorker == 0 {
         numWorker = runtime.NumCPU()
     }
-    if numWorker < 0 {
+    if numWorker <= 0 {
         numWorker = 1
     }
 
