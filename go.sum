@@ -1,0 +1,4 @@
+github.com/palantir/stacktrace v0.0.0-20161112013806-78658fd2d177 h1:nRlQD0u1871kaznCnn1EvYiMbum36v7hw1DLPEjds4o=
+github.com/palantir/stacktrace v0.0.0-20161112013806-78658fd2d177/go.mod h1:ao5zGxj8Z4x60IOVYZUbDSmt3R8Ddo080vEgPosHpak=
+github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 h1:nIPpBwaJSVYIxUFsDv3M8ofmx9yWTog9BfvIu0q41lo=
+github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8/go.mod h1:HUYIGzjTL3rfEspMxjDjgmT5uz5wzYJKVo23qUhYTos=

@@ -7,7 +7,7 @@ import (
     "runtime"
 
     "github.com/palantir/stacktrace"
-    "github.com/zhangyoufu/unpbzx/unpbzx"
+    "github.com/zhangyoufu/unpbzx"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 # Install
 
 ```
-$ go get -u github.com/zhangyoufu/unpbzx
+$ go get -u github.com/zhangyoufu/unpbzx/cmd/unpbzx
 ```
 The executable will be installed at `${GOPATH}/bin/unpbzx`.
 
