@@ -19,7 +19,7 @@ func main() {
         var err error
         src, err = os.Open(os.Args[1])
         if err != nil {
-            log.Fatal("cannot open input file: %s", err)
+            log.Fatal(stacktrace.Propagate(err, "cannot open input file"))
         }
     default:
         log.Fatal("invalid usage")
